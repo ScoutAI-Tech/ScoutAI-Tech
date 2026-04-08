@@ -1,104 +1,59 @@
-# ScoutAI
+# ScoutAI ⚽️🤖
 
-ScoutAI is a deep-tech sports analytics platform leveraging Artificial Intelligence and Computer Vision to evaluate athletic performance and discover emerging talent.
+<p align="center">
+  <strong>The Infrastructure Layer for Global Talent Discovery</strong><br>
+  <i>Leveraging Computer Vision to democratize athletic evaluation.</i>
+</p>
 
-Our platform builds a sport-agnostic infrastructure that enables scalable athlete assessment using standard mobile cameras.
-
----
-
-## Vision
-
-To become the infrastructure layer powering athlete evaluation and talent discovery across global sports ecosystems.
-
----
-
-## What We Build
-
-ScoutAI develops AI systems that:
-
-- Analyze player performance using computer vision
-- Generate automated technical feedback
-- Create Digital Development Roadmaps
-- Support academies with performance tracking dashboards
-- Help clubs filter tryout candidates automatically
-- Enable players to showcase their talent through AI-evaluated drills
+<p align="center">
+  <img src="https://img.shields.io/badge/Stage-Prototype-orange?style=flat-square" alt="Stage">
+  <img src="https://img.shields.io/badge/Focus-Deep--Tech-blue?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Sector-Sports--Analytics-green?style=flat-square" alt="Sector">
+</p>
 
 ---
 
-## Product Tracks
-
-ScoutAI operates across three integrated pipelines:
-
-### B2B – Football Academies
-
-Monthly subscription platform providing:
-
-- Player performance evaluation
-- Development roadmaps
-- Academy dashboards
-- Training progress tracking
+### 🚀 The Vision
+To build a **sport-agnostic AI infrastructure** that transforms standard mobile camera footage into actionable athletic insights, enabling scalable talent discovery worldwide.
 
 ---
 
-### B2B – Professional Clubs
-
-Volume-based AI processing platform supporting:
-
-- Tryout filtering automation
-- Youth sector performance monitoring
-- Tactical & physical benchmarking
+### 🛠 What We Build
+We develop end-to-end AI systems focused on:
+* **Computer Vision:** Automated player performance analysis & pose estimation.
+* **Digital Roadmaps:** AI-generated technical feedback and development tracking.
+* **Scalable Scouting:** Automated filtering for tryouts and academy dashboards.
 
 ---
 
-### B2C – Player Application (Launching Soon)
-
-Mobile platform enabling players to:
-
-- Record drills using smartphone camera
-- Receive automated AI feedback
-- Compete on leaderboards
-- Build their digital athletic identity
-
-Freemium model with premium analytics roadmap access.
+### 📱 Product Tracks
+| Track | Target | Core Value |
+| :--- | :--- | :--- |
+| **B2B Academies** | Training Centers | Performance dashboards & player roadmaps. |
+| **B2B Clubs** | Pro Teams | Volume-based tryout filtering & benchmarking. |
+| **B2C App** | Athletes | Mobile AI-evaluated drills & digital identity. |
 
 ---
 
-## Future Expansion
-
-ScoutAI is building the foundation for:
-
-- Scouting-as-a-Service platforms
-- AI-powered match analytics
-- Automated highlight generation
-- Global sports talent databases
+### 💻 Tech Stack
+* **AI/ML:** Python, Deep Learning, Pose Estimation, Video Processing.
+* **Backend:** ASP.NET Core (Microservices), Cloud-based Inference.
+* **Platforms:** Mobile (Player App) & Web (Dashboards).
 
 ---
 
-## Tech Stack
-
-Core technologies used across ScoutAI:
-
-- Computer Vision
-- Deep Learning
-- Pose Estimation
-- Video Processing Pipelines
-- ASP.NET Backend APIs
-- Python AI Microservices
-- Cloud-based inference infrastructure
+### 🎯 Current Status
+We are actively engineering:
+- [x] Core AI Pipelines
+- [ ] Backend Infrastructure Scaling
+- [ ] Mobile Player Platform (Beta)
 
 ---
 
-## Status
+### 🤝 Connect with ScoutAI
+<p align="left">
+  <a href="mailto:contact@scoutai.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"/></a>
+  <a href="https://linkedin.com/company/scoutai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5"/></a>
+</p>
 
-ScoutAI is currently in prototype stage with active development across:
-
-- AI pipelines
-- backend infrastructure
-- dashboards
-- mobile player platform
-
----
-
-## Contact
-
-ScoutAI Team
+<p align="right"><i>Engineered with precision by the ScoutAI Team.</i></p>
